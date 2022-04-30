@@ -1,0 +1,16 @@
+.education{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    color: white;
+    border: 1px solid red;
+ 
+}
+.education-list{
+    /* display: flex; */
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 24px 0px;
+
+}

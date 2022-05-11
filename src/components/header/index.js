@@ -9,7 +9,7 @@ function Header() {
        <div className='download'>
            <a download href={require("../../assets/resume.pdf")}>
            <i class="fi fi-rr-download"></i>
-           Download Resume
+           Resume
           </a>
          </div>
       <div className='menu'>
